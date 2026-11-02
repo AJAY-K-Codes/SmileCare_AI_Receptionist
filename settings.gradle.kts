@@ -1,0 +1,1 @@
+rootProject.name = "SmileCare_AI_Receptionist"
